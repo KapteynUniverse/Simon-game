@@ -1,4 +1,4 @@
-# Tindog
+# Simon Game
 
 ## Live Demo
 You can view the live version of this project [here](https://kapteynuniverse.github.io/Simon-game/)
